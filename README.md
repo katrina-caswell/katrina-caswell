@@ -1,6 +1,6 @@
 # Hello! :cat:
 
-I'm *Katrina*, a marketer from the UK. My pronouns are **she/her**.
+I'm *Katrina*, a junior data analyst from the UK. My pronouns are **she/her**.
 
 Looking to improve my:
 - Python :snake:
