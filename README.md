@@ -14,4 +14,3 @@ and learn more about Power BI :honeybee:
 Soy Katrina, una analista de datos del Reino Unido. Mis pronombres son ella.
 Aprendo español.
 Quiero aprender más Python y SQL.
-Stack Overflow es mi mejor amiga…
